@@ -1,2 +1,1 @@
-a name
-we have adited the file
+a name # file was adited #
